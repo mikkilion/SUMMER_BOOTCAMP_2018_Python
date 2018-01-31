@@ -1,6 +1,6 @@
 """
-Tradicionalmente ó, el primer programa que escribe en cualquier lenguaje de programacion es "Hello World!".
-Presentese al mundo.
-Ejecutar el script
+M-T-A-S
+
+TAREA 1
 """
 print("Welcome to Bootcamp 2018")
