@@ -6,6 +6,6 @@ for i in range(5):
 print("======")
 
 for x in range(10):
-    if  x%2 == 1:
+    if  x%2 == 2:
         continue
     print(x)
